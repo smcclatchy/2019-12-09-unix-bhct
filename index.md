@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "The Jackson Laboratory"
-address: "Bioinformatics Training Room, 600 Main Street, Bar Harbor, Maine"
+address: "Bioinformatics Training Room, 600 Main Street, Bar Harbor, Maine | Room 3320, Farmington CT"
 country: "us"
 language: "en"
 latitude: "44.365290"
