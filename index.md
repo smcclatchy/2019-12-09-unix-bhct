@@ -10,7 +10,7 @@ humandate: "Dec 9 & 16, 2019"
 humantime: "1:00 pm - 4:00 pm" 
 startdate: 2019-12-09  
 enddate: 2019-12-16
-instructor: ["Sue McClatchy"]
+instructor: ["Sue McClatchy", "Jason Macklin"]
 helper: [""] 
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes: https://pad.carpentries.org/2019-12-09-unix-bhct
